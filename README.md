@@ -35,6 +35,8 @@ The following software tools are required:
 
 •	[minimap2]( https://github.com/lh3/minimap2)	(version: 2.24-r1122)
 
+•	[mosdepth]( https://github.com/brentp/mosdepth)	(version: 0.3.4)
+
 •	[mummer]( https://github.com/mummer4/mummer)	(version: 4.0.0rc1)
 
 •	[nanofilt]( https://github.com/wdecoster/nanofilt)	(version: 2.3.0)
@@ -50,6 +52,8 @@ The following software tools are required:
 •	[rust]( https://www.rust-lang.org/learn)	(version: 1.74.1)
 
 •	[samtools]( https://www.htslib.org/)	(version: 1.3.1)
+
+•	[Sniffels2](https://github.com/fritzsedlazeck/Sniffles)	(version: 2.2)
 
 •	[tapestry]( https://github.com/johnomics/tapestry)	(version: 1.0.0)
 
