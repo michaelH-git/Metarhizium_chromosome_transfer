@@ -70,9 +70,6 @@ The IDs of the previously published sequencing reads and assemblies are given be
 
 | Species	Strain |	Location	| BioSample |	Assembly | Accession | Sequencing run |
 |----------------|------------|-----------|----------|-----------|----------------|
-| M.robertsii	| KVL12-36  (C17) = R1	| Denmark	| SAMN37404239	| 	| SRR26068569 |
-| M.robertsii	| KVL12-35 (E81) = R2	| Denmark	| SAMN37404240	| 	| SRR26068568 |
-| M.robertsii	| KVL12-38 (F19) = R3	| Denmark	| SAMN37404241	| 	| SRR26068557 |
 | M.robertsii	| ARSEF 23	| USA	| SAMN20219665	| 	| SRR15182435 |
 | M.robertsii	| ARSEF 2575	| USA	| SAMN20219666	| 	| SRR15182434 |
 | M.robertsii	| ESALQ 1426	| Brazil	| SAMN20243868	| 	| SRR15182431 |
@@ -98,9 +95,6 @@ The IDs of the previously published sequencing reads and assemblies are given be
 | M.brunneum	| ESALQ 5022	| Brazil	| SAMN20243865	| 	| SRR15182422 |
 | M.brunneum	| ESALQ 5181	| Brazil	| SAMN20243866	| 	| SRR15182433 |
 | M.brunneum	| ESALQ 5286	| Brazil	| SAMN20243867	| 	| SRR15182432 |
-| M.brunneum	| KVL13-13 (G39) =B1	| Denmark	| SAMN37404242	| 	| SRR26068546 |
-| M.brunneum	| KVL12-37 (J65) = B2	| Denmark	| SAMN37404243	| 	| SRR26068541 |
-| M.brunneum	| KVL13-14 (L105) = B3	| Denmark	| SAMN37404244	| 	| SRR26068540 |
 | M. guizhouense	| ARSEF-977	| France	| SAMN03268433	| GCA_000814955.1	|  |
 | M. majus	| ARSEF-297	| Samoa	| SAMN03268436	| GCF_000814945.1	|  |
 | M acridum	| ARSEF-324	| Australia	| SAMN18235592	| GCA_019434415.1	|  |
